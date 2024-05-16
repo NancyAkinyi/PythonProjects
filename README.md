@@ -1,3 +1,3 @@
 # PythonProjects
 
-This is a repository with the Python projects I have done using Jupyter Notebooks,
+This is a repository with the Python projects I have done using Jupyter Notebook.
